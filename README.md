@@ -17,10 +17,10 @@ Comparing each tag element in sequence
 *Returns a list of compared nodes
 
 eg:
-'''
+```
 nodeCompare = new nodeComparison
 nodeCompare.initiate(widget, "content", "data-widget-name")
-'''
+```
 Here:
 widget = div to be compared
 content = the id of the container to be searched for widget
